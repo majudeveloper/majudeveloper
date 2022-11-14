@@ -37,7 +37,7 @@
 
   ### TOP 3 Redes Sociais
   - [x] [codepen.io](https://codepen.io)
-  - [x] [stackoverflow.com(https://stackoverflow.com)
+  - [x] [stackoverflow.com](https://stackoverflow.com)
   - [x] [linkedin.com](https://linkedin.com)
   - [ ] [linktr.ee](https://linktr.ee/)
   
