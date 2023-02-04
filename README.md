@@ -35,7 +35,7 @@
   
   ##
 
-  ### TOP 3 Redes Sociais
+  ### TOP 3 Comunidades para programação
   - [x] [codepen.io](https://codepen.io)
   - [x] [stackoverflow.com](https://stackoverflow.com)
   - [x] [linkedin.com](https://linkedin.com)
